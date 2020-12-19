@@ -28,7 +28,7 @@ Alex Gathuri
 
 # Live link
 
-Week3 Live Link: [Delani Studio](https://username.github.io/reponame)
+Week3 Live Link: [alexgathuri/week3](https://username.github.io/reponame)
 
 # Contact information
 * Email: [Email](mailto:gathurialex4@gmail.com)
