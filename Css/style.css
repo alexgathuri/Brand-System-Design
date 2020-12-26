@@ -35,4 +35,32 @@
     text-align: center;
     color: white;
     background-image: url("../Static/assets/backgrounds/s_image.jpg");
+    padding: 5%;
+}
+
+.whatwedo {
+    text-align: center;
+    padding:5%;
+}
+
+.icons {
+    float: left;
+    height: auto;
+    width: 33%;
+    padding: 0%;
+
+}
+.icons2 {
+    float:center;
+    height: auto;
+    width:33%;
+    padding: 0%;
+
+}
+.icons3 {
+    float: right;
+    height: auto;
+    width:33%;
+    padding:0%;
+
 }
