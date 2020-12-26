@@ -1,10 +1,32 @@
-body { 
-    background: url(/Static/assets/backgrounds/h_img.jpg);
+.logo {
+    background-image: url("../Static/assets/logo/logo.png");
+
+}
+
+
+
+.welcome { 
+    background-image:url("../Static/assets/backgrounds/h_img.jpg");
     text-align: center;
+    padding: 10%;
+    margin: auto;
+    color: white;
+    size: auto;
+    height:auto;
+    font-size: 50px;
+    width: auto;
+
+}  
+.welcome2 {
+    font-size: 20px;
+
+}
     
 
 
-
-
+ .about {
+     text-align: center;
+     padding: 5%;
+     margin: 10px; 
 
 }
