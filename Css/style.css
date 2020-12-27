@@ -28,6 +28,7 @@
      text-align: center;
      padding: 5%;
      margin: 10px; 
+     font-size: 20px;
 
 }
 
@@ -47,21 +48,27 @@
 .icons {
     float: left;
     height: auto;
-    width: 33%;
+    width: 33.3%;
     padding: 0%;
 
 }
 .icons2 {
-    float:center;
+    float:left;
     height: auto;
-    width:33%;
+    width:33.3%;
     padding: 0%;
 
 }
 .icons3 {
-    float: right;
+    float: left;
     height: auto;
-    width:33%;
+    width:33.3%;
     padding:0%;
+
+}
+
+.portfolio {
+    text-align: center;
+    padding: 10%;
 
 }
