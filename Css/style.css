@@ -12,7 +12,7 @@
     margin: auto;
     color: white;
     size: auto;
-    height:auto;
+    height:10%;
     font-size: 50px;
     width: auto;
 
@@ -42,28 +42,28 @@
 
 .whatwedo {
     text-align: center;
-    padding:5%;
+    padding:10%;
 }
 
 .icons {
     float: left;
     height: auto;
     width: 33.3%;
-    padding: 0%;
+    padding: 5%;
 
 }
 .icons2 {
     float:left;
     height: auto;
     width:33.3%;
-    padding: 0%;
+    padding: 5%;
 
 }
 .icons3 {
     float: left;
     height: auto;
     width:33.3%;
-    padding:0%;
+    padding:5%;
 
 }
 
@@ -72,3 +72,60 @@
     padding: 10%;
 
 }
+
+.work1 {
+    float: left;
+    width: 5%;
+    padding: 5%;
+    
+}
+
+
+.work2 {
+    float: left;
+    width: 20%;
+    padding: 5%;
+}
+
+.work3 {
+    float: left;
+    width: 20%;
+    padding: 5%;
+}
+
+.work4 {
+    float: left;
+    width: 20%;
+    padding: 5%;
+}
+
+.work5 {
+    float: left;
+    width: 20%;
+    padding: 5%;
+}
+
+.work6 {
+    float: left;
+    width: 20%;
+    padding: 5%;
+}
+
+.work7 {
+    float: left;
+    width: 20%;
+    padding: 5%;
+}
+.work8 {
+    float: left;
+    width: 20%;
+    padding: 5%;
+}
+
+.contact1{
+    background-color: grey;
+    padding:10%;
+    text-align: center;
+
+}
+
