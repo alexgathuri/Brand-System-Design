@@ -147,6 +147,8 @@
     color: white;
     
 }
-.name{
-    padding: 5%
+
+::placeholder{
+    color: white;
+    
 }
