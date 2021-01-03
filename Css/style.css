@@ -48,9 +48,20 @@
 
 .img{
     width: auto;
+    
 
 }
 
+.hide{
+    display: none;
+}
+.hide2{
+    display: none;
+}
+
+.hide3{
+    display: none;
+}
 
 
 
@@ -84,53 +95,12 @@
 
 }
 
-.work1 {
-    float: left;
-    width: 5%;
-    padding: 5%;
-    
-}
+.port{
 
-
-.work2 {
-    float: left;
-    width: 20%;
-    padding: 5%;
-}
-
-.work3 {
-    float: left;
-    width: 20%;
-    padding: 5%;
-}
-
-.work4 {
-    float: left;
-    width: 20%;
-    padding: 5%;
-}
-
-.work5 {
-    float: left;
-    width: 20%;
-    padding: 5%;
-}
-
-.work6 {
-    float: left;
-    width: 20%;
-    padding: 5%;
-}
-
-.work7 {
-    float: left;
-    width: 20%;
-    padding: 5%;
-}
-.work8 {
-    float: left;
-    width: 20%;
-    padding: 5%;
+    height: 200px;
+    float:left;
+    width: 25%;
+    padding: 5px;
 }
 
 .contact1{
