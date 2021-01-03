@@ -18,3 +18,10 @@ $(document).ready(function() {
       $(".hide3").toggle();
     });
   });
+
+  function display(){
+
+    var name = document.getElementById("fname");
+
+    alert(" we have received your message. Thank you for reaching out to us.");
+  }
