@@ -95,13 +95,21 @@
 
 }
 
+
+
 .port{
 
     height: 200px;
-    float:left;
-    width: 25%;
+    width: auto;
     padding: 5px;
+    float: left;
 }
+.work1{
+    width: auto;
+
+}
+
+
 
 .contact1{
     background-image: url("../Static/assets/backgrounds/c_image.jpg");
