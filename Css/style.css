@@ -110,6 +110,27 @@
 }
 
 
+.hover1{
+
+    display: none;
+   
+
+
+
+}
+.port:hover + .hover1{
+
+    display: block;
+    background-color: #fefefe;
+    margin: auto;
+    padding: 20px;
+   
+    width: 80%;
+   
+
+}
+
+
 
 .last{
     background-image: url("../Static/assets/backgrounds/c_image.jpg");
