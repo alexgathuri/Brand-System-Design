@@ -111,46 +111,45 @@
 
 
 
-.contact1{
+.last{
     background-image: url("../Static/assets/backgrounds/c_image.jpg");
     padding:10%;
     text-align: center;
-    color: white;
+    
+    
 
+}
+.contact1{
+    color: white;
+    
 }
 
 .text1{
-    opacity:0.1 ;
+    opacity: 0.4;
     padding: 5%;
     
     
 }
+
 
 ::placeholder{
-    color: white;
+    opacity: 0.2;
+    color:yellow;
     
 }
-
-:-ms-input-placeholder { 
-    color: red;
-   }
-   
-   ::-ms-input-placeholder { 
-    color: red;
-   }
-
-   .social1{
-    padding: 5%;
+.social1{
+    padding: 2%;
 
    }
-
-
-
 
    .social{
-       float: left;
+       float: left  ;
        width: 10%;
        padding:1%;
 
 
+   }
+
+   .end{
+       text-align: center;
    }
