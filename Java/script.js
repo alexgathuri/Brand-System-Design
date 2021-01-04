@@ -21,9 +21,12 @@ $(document).ready(function() {
 
   function display(){
 
-    var name = document.getElementById("fname");
+    var name = document.getElementById("fname").value;
+    var dis = " we have received your message. Thank you for reaching out to us.";
 
-    alert(" we have received your message. Thank you for reaching out to us.");
+   
+
+    alert(name + dis);
   }
 
  
